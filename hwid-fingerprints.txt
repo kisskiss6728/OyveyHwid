@@ -1,3 +1,4 @@
 # Source HWID fingerprints used when issuing per-release authorization documents.
 # Do not put build IDs or expiration fields in this file.
 a0a56c1514f158bb68b3bfd1d99f31a74c979758032d2f8d75f4bf4ce1eb6d4f
+958113354225a40022933be813e1987133ea3bb391eb526d56cd35670c7c3acf
