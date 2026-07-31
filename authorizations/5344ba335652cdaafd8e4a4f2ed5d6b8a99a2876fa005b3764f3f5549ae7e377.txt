@@ -1,0 +1,5 @@
+format=didahack-hwid-v1
+build=1.0.1:34b0861ad90e0b4f9714f5dae2308cabdb41e42c:hwid:1.21.11:0.18.4:99d231bb9eabe18eee789b103fa01cf95c590cb0bf0eef62df4128e8799e5b7f
+issued_at=1785509423
+expires_at=1788101423
+fingerprint=a0a56c1514f158bb68b3bfd1d99f31a74c979758032d2f8d75f4bf4ce1eb6d4f
